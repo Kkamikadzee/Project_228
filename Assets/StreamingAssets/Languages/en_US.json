@@ -1,0 +1,13 @@
+{
+    "SwipeToStart":"Swipe to start", 
+    "TotalScore": "Total score", 
+    "Score": "Score", 
+    "ComingSoon": "Coming soon...", 
+    "StartMenuVer": "Are you sure you want to quit?", 
+    "PassedLevel": "Level Passed", 
+    "RestartVer": "Are you sure you want to replay the level?", 
+    "SwipeToComeBack": "Swipe to come back", 
+    "ResetProgress": "Reset Progress", 
+    "ResetVer": "Are you sure you want to reset the progress?", 
+    "Help": "Purpose of the game: fill all the cells on the field"
+}
